@@ -15,6 +15,8 @@ public class Quiz120826 {
 		}
 		System.out.println(my_string);
 		
+		// String.replace() 사용
+		// 문자열 바로 바꿈.
 		String my_string2 = "abcdef";
 		String letter2 = "f";
 		
